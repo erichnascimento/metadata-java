@@ -6,8 +6,6 @@ import java.util.ArrayList;
 import java.util.Map;
 import java.util.HashMap;
 
-import com.ebanx.metadata.tag.TagStorage;
-
 public class InMemoryTagStorage implements TagStorage {
 	private final Map<String, List<String>> map;
 
