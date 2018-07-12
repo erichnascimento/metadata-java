@@ -9,6 +9,7 @@
 	<description>Metadata management for anything</description>
 	<modules>
 		<module>tag</module>
+		<module>annotation</module>
 	</modules>
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
